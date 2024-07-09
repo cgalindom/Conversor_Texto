@@ -6,7 +6,7 @@
 ![Badge Java](https://img.shields.io/badge/JavaScript-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
 
-![Portada](https://github.com/cgalindom/Conversor_Texto.git)
+![URL - Repositorio Github](https://github.com/cgalindom/Conversor_Texto.git)
 
 ## Descrpción del Proyecto
 
